@@ -1,5 +1,6 @@
 // INSTRUCTIONS
 // Run program with 'node solutionQ6.js' in the terminal
+// Result will print to the terminal
 
 // Parse the data.json file so it can be accessed here
 const fs = require("fs");
